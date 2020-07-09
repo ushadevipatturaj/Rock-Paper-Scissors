@@ -2,22 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="65732b67-1707-4739-91d0-446874641e6a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Problems/CapWords/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/CapWords/task-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/CapWords/task.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/CapWords/task.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/Find positions/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/Find positions/task-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/Find positions/task.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/Find positions/task.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/Find words/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/Find words/task-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/Find words/task.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/Find words/task.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/mixedCase/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/mixedCase/task-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/mixedCase/task.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/mixedCase/task.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/Triangle/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/Triangle/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/Triangle/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/Triangle/task.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Problems/lesson-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Problems/lesson-info.yaml" afterDir="false" />
     </list>
@@ -43,7 +31,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
   </component>
-  <component name="RunManager" selected="Python.task (2)">
+  <component name="RunManager" selected="Python.task (3)">
     <configuration name="task (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Rock-Paper-Scissors" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -86,6 +74,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="task (3)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Rock-Paper-Scissors" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Problems/Triangle" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Problems/Triangle/task.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="task (4)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Rock-Paper-Scissors" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -99,27 +108,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Problems/Find words/task.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="task (5)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Rock-Paper-Scissors" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Problems/Fix the mistakes" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Problems/Fix the mistakes/task.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -151,11 +139,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.task (3)" />
         <item itemvalue="Python.task (2)" />
         <item itemvalue="Python.task (4)" />
         <item itemvalue="Python.task (1)" />
         <item itemvalue="Python.task" />
-        <item itemvalue="Python.task (5)" />
       </list>
     </recent_temporary>
   </component>
@@ -254,7 +242,14 @@
       <option name="project" value="LOCAL" />
       <updated>1594323403375</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Lists and its functions - split, splitlines, join, count">
+      <created>1594326597484</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1594326597484</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -273,10 +268,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="Lists and its functions - split, splitlines, join, count" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="395" y="0" key="CommitChangelistDialog2" timestamp="1594323399714">
+    <state x="395" y="0" key="CommitChangelistDialog2" timestamp="1594326593278">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="395" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1594323399714" />
+    <state x="395" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1594326593278" />
     <state x="621" y="310" key="Github.ShareDialog" timestamp="1593969096440">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -285,26 +280,26 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="525" y="117" key="Github.UntrackedFilesDialog/0.0.1536.824@0.0.1536.824" timestamp="1593969104764" />
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1594326558781">
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1594328153970">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1594326558781" />
-    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1594326558780">
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1594328153970" />
+    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1594328153969">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1594326558780" />
-    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1594326558780">
+    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1594328153969" />
+    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1594328153969">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1594326558780" />
-    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1594326558780">
+    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1594328153969" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1594328153970">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1594326558780" />
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1594323411411">
+    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1594328153970" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1594326599747">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1594323411411" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1594326599747" />
     <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1594047441794">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
