@@ -1,7 +1,7 @@
-def heading(word, hash=1):
-    if hash <= 1:
-        return '# '+word
-    elif hash > 6:
-        return '###### '+word
+def heading(word, hash_str=1):
+    if hash_str <= 1:
+        return '# ' + word
+    elif hash_str > 6:
+        return '###### ' + word
     else:
-        return ('#' * hash)+' '+ word
+        return ('#' * hash_str) + ' ' + word
